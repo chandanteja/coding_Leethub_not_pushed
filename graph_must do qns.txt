@@ -1,0 +1,36 @@
+BFS
+DFS
+cycle detectionBipartite
+Topological sort ( DFS, BFS using khan's algorithm)
+hasPath
+getPath ( DFS, BFS )
+isConnected
+return all connected components
+Snake and ladder
+Journey to the moon ( hackerrank :- https://www.hackerrank.com/challenges/journey-to-the-moon/problem )
+Holiday Accommodation ( in Coding blocks videos in 2nd folder of Graph )
+Region in Binary Matrix
+smallest multiple with 0 and 1
+Surrounded Region
+Flood Fill
+Black shapes
+Possibility of finishing all courses given pre-requisites
+Word Search Board
+Number of islands
+Water Flow 
+Employee Importance
+Max area of island
+course schedule 1
+course schedule II
+Minesweeper
+Permutation swap
+Shortest Path bw source to all nodes in undirected Graph with unidistance weights
+Shortest Path bw source to all nodes in directed Graph with weights
+Dijkstra's Algorithm ( Shortest Path bw source to all nodes in undirected Graph with weight more than 1)
+BellMan ford
+Strongly Conncted component ( using Kosaraju's algorithm and targen's algorithm )
+MST
+Prims Algorithm
+Kruskal ( Disjoint set Union find rank and Path compression algorithm for Kruskal algorithm )
+Bridges ( cut edges )
+articulation point ( cut vertex )
