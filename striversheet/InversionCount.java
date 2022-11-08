@@ -3,6 +3,8 @@
  * 
  * We use mergesort to count inversions, while merging we count the inversions.
  * 
+ * T.C : O(nlogn)
+ * S.C : O(n)
  */
 
 public class InversionCount {
